@@ -564,3 +564,7 @@ video {
 .w-32 {
   width: 8rem;
 }
+
+.right-6 {
+  right: 52%;
+}
